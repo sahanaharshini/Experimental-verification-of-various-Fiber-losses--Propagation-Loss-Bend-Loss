@@ -103,7 +103,6 @@ This \(a\) is for **950nm wavelength**.
 ![alt text](image-1.png)
 
 
-
 ## RESULT
 
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
