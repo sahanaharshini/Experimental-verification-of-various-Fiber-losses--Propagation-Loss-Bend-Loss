@@ -97,9 +97,7 @@ This \(a\) is for **950nm wavelength**.
 ![alt text](image.png)
 
 ---
-
 ## CALCULATION
-
 ![alt text](image-1.png)
 
 
